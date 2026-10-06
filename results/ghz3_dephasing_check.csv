@@ -1,0 +1,4 @@
+phase_flip_probability,population_metric,coherence,prepared_state_fidelity
+0.0,1.0,1.0,0.9999999999999998
+0.1,1.0,0.8,0.8999999999999999
+0.5,1.0,0.0,0.4999999999999999

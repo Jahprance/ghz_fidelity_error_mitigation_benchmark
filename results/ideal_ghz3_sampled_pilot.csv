@@ -1,0 +1,5 @@
+noise_condition,n_qubits,setting,theta,shots,seed_simulator,transpiled_depth,operations_json,counts_json
+ideal,3,population,,512,90042,6,"{""measure"": 3, ""rz"": 2, ""cx"": 2, ""sx"": 1, ""barrier"": 1}","{""000"": 252, ""111"": 260}"
+ideal,3,parity_0,0.0,512,90043,10,"{""rz"": 11, ""sx"": 4, ""measure"": 3, ""cx"": 2, ""barrier"": 1}","{""000"": 113, ""011"": 118, ""101"": 126, ""110"": 155}"
+ideal,3,parity_1,1.0471975511965976,512,90044,10,"{""rz"": 11, ""sx"": 4, ""measure"": 3, ""cx"": 2, ""barrier"": 1}","{""001"": 152, ""010"": 152, ""100"": 105, ""111"": 103}"
+ideal,3,parity_2,2.0943951023931953,512,90045,10,"{""rz"": 11, ""sx"": 4, ""measure"": 3, ""cx"": 2, ""barrier"": 1}","{""000"": 119, ""011"": 124, ""101"": 125, ""110"": 144}"

@@ -1,0 +1,28 @@
+{
+  "global_seed": 42,
+  "qubit_counts": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "shot_counts": [
+    128,
+    512,
+    2048,
+    8192
+  ],
+  "default_shots": 2048,
+  "repetitions": 30,
+  "pilot_qubit_counts": [
+    2,
+    3
+  ],
+  "pilot_shots": 512,
+  "pilot_repetitions": 3,
+  "readout_p_0_to_1": 0.03,
+  "readout_p_1_to_0": 0.05,
+  "depolarizing_p1q": 0.002,
+  "depolarizing_p2q": 0.015,
+  "created_utc": "2026-10-06T10:18:23.344202+00:00"
+}

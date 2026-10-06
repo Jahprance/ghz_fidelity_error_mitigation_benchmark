@@ -1,0 +1,5 @@
+method,fidelity_estimate,absolute_error_to_ideal,target_scales,target_shots,calibration_shots,total_shots_including_calibration
+unmitigated,0.8030598958333333,0.19694010416666674,1,2048,0,2048
+readout_mitigation,0.9409035841266578,0.059096415873342245,1,2048,1024,3072
+zne_only,0.8248969184027771,0.17510308159722288,"1, 3, 5",6144,0,6144
+readout_mitigation_plus_zne,0.9673075177113432,0.03269248228865684,"1, 3, 5",6144,1024,7168
