@@ -33,7 +33,7 @@ was actually prepared.
 
 The notebook builds the benchmark step by step:
 
-1. Prepare GHZ-plus states from 2 to 5 qubits and verify ideal populations
+1. Prepare Bell and GHZ-plus states from 3 to 5 qubits and verify ideal populations
    and target fidelity.
 2. Compare GHZ+, GHZ- and balanced classical mixture to show why
    computational-basis populations alone cannot fully describe GHZ fidelity.
